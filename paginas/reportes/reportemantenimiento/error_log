@@ -1,0 +1,3 @@
+[23-Aug-2022 14:33:43 UTC] PHP Warning:  Undefined array key "id_usuario" in /home/incominf/democombus.incominfecojscrl.com/paginas/reportes/reportemantenimiento/reportemantenimiento.php on line 3
+[23-Aug-2022 14:33:43 UTC] PHP Warning:  Undefined array key "idnombre" in /home/incominf/democombus.incominfecojscrl.com/paginas/reportes/reportemantenimiento/reportemantenimiento.php on line 4
+[23-Aug-2022 14:33:43 UTC] PHP Warning:  Undefined array key "codcombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/reportes/reportemantenimiento/reportemantenimiento.php on line 5

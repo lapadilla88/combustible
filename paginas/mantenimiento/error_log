@@ -1,0 +1,21 @@
+[08-Aug-2022 22:59:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php:58
+Stack trace:
+#0 /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php(58): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 58
+[08-Aug-2022 23:00:58 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[09-Aug-2022 02:09:51 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[09-Aug-2022 14:36:11 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[09-Aug-2022 14:37:06 UTC] PHP Warning:  Undefined array key "token" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/editarmantenimiento.php on line 87
+[09-Aug-2022 14:37:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/editarmantenimiento.php:89
+Stack trace:
+#0 /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/editarmantenimiento.php(89): mysqli_query()
+#1 {main}
+  thrown in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/editarmantenimiento.php on line 89
+[09-Aug-2022 14:37:06 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[11-Aug-2022 04:36:51 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[17-Aug-2022 21:39:00 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[23-Aug-2022 13:56:44 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[24-Aug-2022 15:02:54 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[24-Aug-2022 16:18:29 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73
+[25-Aug-2022 14:46:10 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/mantenimiento/listarmantenimiento.php on line 73

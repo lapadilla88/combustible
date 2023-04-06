@@ -1,0 +1,79 @@
+[08-Aug-2022 23:07:44 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 18:07:52 America/Lima] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php:48
+Stack trace:
+#0 /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php on line 48
+[08-Aug-2022 23:07:58 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingusuario" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 31
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingcontrasena" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 32
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingregistro" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 33
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingconductor" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 35
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "inggrifo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 36
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingcombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 37
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingtipomantenimiento" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 38
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingvalescombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 39
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "ingmantenimientos" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 40
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "repvales" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 41
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "repvalesvehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 42
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "repmantenimiento" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 43
+[08-Aug-2022 23:09:11 UTC] PHP Warning:  Undefined array key "repmantenimientovehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 44
+[08-Aug-2022 23:09:12 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 18:09:17 America/Lima] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php:48
+Stack trace:
+#0 /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php on line 48
+[08-Aug-2022 23:11:37 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 18:11:46 America/Lima] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php:48
+Stack trace:
+#0 /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php on line 48
+[08-Aug-2022 23:12:44 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 23:13:12 UTC] PHP Warning:  Undefined array key "ingusuario" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 31
+[08-Aug-2022 23:13:12 UTC] PHP Warning:  Undefined array key "ingcontrasena" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 32
+[08-Aug-2022 23:13:14 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingusuario" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 31
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingcontrasena" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 32
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingregistro" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 33
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingvehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 34
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingconductor" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 35
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "inggrifo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 36
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingcombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 37
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingtipomantenimiento" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 38
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingvalescombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 39
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "ingmantenimientos" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 40
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "repvales" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 41
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "repvalesvehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 42
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "repmantenimiento" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 43
+[08-Aug-2022 23:13:24 UTC] PHP Warning:  Undefined array key "repmantenimientovehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/registrousuario.php on line 44
+[08-Aug-2022 23:13:26 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 23:13:30 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingusuario" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 32
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingcontrasena" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 33
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingregistro" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 34
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingvehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 35
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingconductor" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 36
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "inggrifo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 37
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingcombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 38
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingtipomantenimiento" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 39
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingvalescombustible" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 40
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "ingmantenimientos" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 41
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "repvales" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 42
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "repvalesvehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 43
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "repmantenimiento" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 44
+[08-Aug-2022 23:13:34 UTC] PHP Warning:  Undefined array key "repmantenimientovehiculo" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/editarusuario.php on line 45
+[08-Aug-2022 23:13:35 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[08-Aug-2022 18:13:37 America/Lima] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php:48
+Stack trace:
+#0 /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/eliminarusuario.php on line 48
+[08-Aug-2022 23:13:38 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[10-Aug-2022 03:06:05 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[23-Aug-2022 20:53:19 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[23-Aug-2022 20:53:31 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[25-Aug-2022 18:31:04 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[25-Aug-2022 18:31:18 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
+[25-Aug-2022 18:32:53 UTC] PHP Warning:  Undefined array key "busqueda" in /home/incominf/democombus.incominfecojscrl.com/paginas/usuario/listarusuario.php on line 69
